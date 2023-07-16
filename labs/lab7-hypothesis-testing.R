@@ -89,7 +89,7 @@ chi$residuals
 corrplot(chi$residuals, is.cor = F)
 
 ## p-value = 5.799167e-07
-## there is an significant association between Gender and Job Title
+## there is no significant association between Gender and Job Title
 
 
 
